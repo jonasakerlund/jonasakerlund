@@ -21,5 +21,5 @@ $\texttt{\color{#8B0000}pickles ‎ ♡ ‎ irl}$
 
 
 $\texttt{\color{#fae7ac} ‎ ♡ ‎ }$\
-$\texttt{\color{#FF0000} "Motherdouchebags did it agian !", ‎ }$\
+$\texttt{\color{#FF0000} "Motherdouchebags!", ‎ }$\
 $\texttt{\color{#8B0000} -‎ ‎ pickles ‎ }$
