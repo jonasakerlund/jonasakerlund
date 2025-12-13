@@ -5,8 +5,12 @@
 
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_lre2iep7Ri1qcsioio1_r1_500.gifv" | width=400 style="font-size:"/>
-</p>
 
+
+
+ 
+
+</p>
 
 <p align="center">
 ⠀ $${\color{#610000}ꜱɪɢɴ ꜱᴛʀᴀᴡ   ， ／ ɴᴇᴠᴇʀ ᴏɴʟɪɴᴇ ⠀ （*＾ワ＾*）}$$
