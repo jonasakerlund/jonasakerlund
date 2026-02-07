@@ -12,7 +12,7 @@
 　<p align="center">![](https://komarev.com/ghpvc/?username=jonasakerlund-high&label=(guitar__gods)&color=4682B4)
 
  　<p align="center">✦      [atabook](https://picklesthedummer.atabook.org/)    [rentry](https://rentry.co/davidleeroth
-)    [straw](https://skwiskles.straw.page)</p>
+)    [straw](https://janilane.straw.page)</p>
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xzbapuwfx2aeudyk64eo5httaa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=4486a2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
